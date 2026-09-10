@@ -16,8 +16,8 @@ Previously at KLA, I developed machine learning and computer vision algorithms f
 - LLM evaluation: task success, failure modes, cross-model behavior, and latency/cost tradeoffs.
 - Agent integrations: RAG, vector databases, and MCP clients connecting multiple servers.
 - Production ML: FastAPI services, Docker packaging, and cross-functional product integration.
-- Language translation.
-- LLM safety and guardrails.
+- LLM safety and guardrails using Transformers and LLMs (LLAMA GUARD).
+- Language translation, evaluation, etc.
 
 ## Experience Highlights
 
